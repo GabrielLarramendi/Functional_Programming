@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Comparator/Comparator.iml" filepath="$PROJECT_DIR$/Comparator/Comparator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Consumer/Consumer.iml" filepath="$PROJECT_DIR$/Consumer/Consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Function/Function.iml" filepath="$PROJECT_DIR$/Function/Function.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pipeline/Pipeline.iml" filepath="$PROJECT_DIR$/Pipeline/Pipeline.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Predicate/Predicate.iml" filepath="$PROJECT_DIR$/Predicate/Predicate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stream/Stream.iml" filepath="$PROJECT_DIR$/Stream/Stream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercise02/exercise02.iml" filepath="$PROJECT_DIR$/exercise02/exercise02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercise03/exercise03.iml" filepath="$PROJECT_DIR$/exercise03/exercise03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lamdaExercise01/lamdaExercise01.iml" filepath="$PROJECT_DIR$/lamdaExercise01/lamdaExercise01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/programacao_funcional.iml" filepath="$PROJECT_DIR$/programacao_funcional.iml" />
+    </modules>
+  </component>
+</project>
